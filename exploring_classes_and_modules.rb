@@ -28,3 +28,4 @@ gold = OlympicMedal.new("Gold", 3)
 
 puts bronze > silver
 puts silver > bronze
+puts gold > silver
