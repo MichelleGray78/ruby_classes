@@ -2,7 +2,7 @@ class OlympicMedal
 
   include Comparable
 
-  MEDAL_VALUES = {"Gold" => 3, "Silver" => 2, "Bronze" => 1}
+  MEDAL_VALUES = {'Gold' => 3, 'Silver'=> 2, 'Bronze' => 1}
 
   attr_reader :type
 
